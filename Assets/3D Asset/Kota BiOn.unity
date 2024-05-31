@@ -505,6 +505,31 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 9084430176691122182}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &130183072495832462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130183072495832458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fdb15471fadb343abe791c0a0e01ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &130183072495832463
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130183072495832458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0050305477, y: 0.0005808736, z: 0.005808736}
+  m_Center: {x: -0.00017245812, y: 0.00019263002, z: -0.0000021487936}
 --- !u!1 &173822949842536054 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8970020437542024816, guid: 383b57ef4fe35244785a82c13498083c,
