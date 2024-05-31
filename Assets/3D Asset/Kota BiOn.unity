@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e62ee23b5bcecc46a688d2ba6efd57d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 3
+  rotationSpeed: -3
   maxRotationZ: 45
 --- !u!64 &219064450
 MeshCollider:
