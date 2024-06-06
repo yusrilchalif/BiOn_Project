@@ -6,6 +6,11 @@ public class TestPopUp : MonoBehaviour
     [DllImport("__Internal")]
     private static extern void Hello();
 
+    [DllImport("__Internal")]
+    private static extern void HelloString(string str);
+
+    [SerializeField] string campusName;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +25,7 @@ public class TestPopUp : MonoBehaviour
 
     public void OnMouseDown()
     {
-        print("Clicked");
-        Hello();
+        print("Clicked" + campusName);
+        HelloString(campusName);
     }
 }

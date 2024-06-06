@@ -3,7 +3,7 @@ using UnityEngine;
 public class ScrollZoom : MonoBehaviour
 {
     [SerializeField] private float zoomSpeed = 10f;  // Speed of zooming in
-    [SerializeField] private float minZoom = 20f;    // Minimum field of view
+    [SerializeField] private float minZoom = 0f;    // Minimum field of view
     [SerializeField] private float maxZoom = 60f;    // Maximum field of view (if you decide to use it)
 
     private Camera cam;

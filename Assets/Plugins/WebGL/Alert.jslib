@@ -1,5 +1,9 @@
 mergeInto(LibraryManager.library, {
     Hello: function() {
-        window.alert("Hello World");
+        window.bionWorldPopup("GedungBion");
+    },
+
+    HelloString: function(str) {
+        window.bionWorldPopup(Pointer_stringify(str));
     },
 });
