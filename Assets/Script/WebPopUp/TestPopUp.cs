@@ -25,7 +25,7 @@ public class TestPopUp : MonoBehaviour
 
     public void OnMouseDown()
     {
-        print("Clicked" + campusName);
+        //print("Clicked" + campusName);
         HelloString(campusName);
     }
 }
