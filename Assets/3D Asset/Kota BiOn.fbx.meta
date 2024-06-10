@@ -122,11 +122,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_01.002
-    second: {fileID: 2100000, guid: cdfff8f0dd49b354ba41ff67996a3d83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_02
     second: {fileID: 2100000, guid: 3d69ca038a8961c46bc686368fe5b6d7, type: 2}
   - first:
@@ -134,11 +129,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Color_02.001
     second: {fileID: 2100000, guid: 321cb41aac7988249b2093f6c7b69d5a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_02.002
-    second: {fileID: 2100000, guid: 35c45127002c5624aac86fec39365524, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -152,11 +142,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_03.002
-    second: {fileID: 2100000, guid: fa78b3baf7e647b4988fa9044ed8b21b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_04
     second: {fileID: 2100000, guid: 6ce81d212ed4fa04483937526bcab912, type: 2}
   - first:
@@ -167,11 +152,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_04.002
-    second: {fileID: 2100000, guid: 09c9a44ccc216cc42a62f47bb2dacf36, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_05
     second: {fileID: 2100000, guid: 7b97efa7ad27add429033be1666dd6ad, type: 2}
   - first:
@@ -179,11 +159,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Color_05.001
     second: {fileID: 2100000, guid: 93a414c321d4d7e4cbe9f474fc0cfaac, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_05.002
-    second: {fileID: 2100000, guid: e0ed6ab682c3c184eb963d9dff56c53b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -227,11 +202,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_16
-    second: {fileID: 2100000, guid: 6a62579594f937f45ae3a2fbd66352c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_A0
     second: {fileID: 2100000, guid: 666095b12124f234aba5e619fdb091fc, type: 2}
   - first:
@@ -252,6 +222,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Color_C0.001
+    second: {fileID: 2100000, guid: cd0cd5a1c70246e429793015ca9bf308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Color_D0
     second: {fileID: 2100000, guid: e248f800fb8e33a4ab99b0f9c19aeb22, type: 2}
   - first:
@@ -262,28 +237,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_F0
-    second: {fileID: 2100000, guid: 9395208a9c51dff4da584c709da472f2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_F2
     second: {fileID: 2100000, guid: 1f5f44fff64d77a4dba8f7f8bd05f208, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_G0
-    second: {fileID: 2100000, guid: 9f070ed6bcd7ab74aa623444df0032e1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_G0.001
     second: {fileID: 2100000, guid: 5d2913c3374788d41ad269dc78cff439, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_G0.002
-    second: {fileID: 2100000, guid: 645452d38bc91794aab330dd8835b86a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -384,11 +344,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Logo_BUL
     second: {fileID: 2100000, guid: 6ebb405d011d05b45b55e7b66a8702d4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Logo_BUL.001
-    second: {fileID: 2100000, guid: 3cc79d2291d1ac34bad29335bc9229c0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -524,11 +479,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Transl01
     second: {fileID: 2100000, guid: d60450725031e8944b59859414559ca0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Transl02
-    second: {fileID: 2100000, guid: 44721c5dff40e33469aedc81774240bd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -867,11 +817,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_10
-    second: {fileID: 2100000, guid: e9ac569db9b55434398483ac15c8c23c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _auto_11
     second: {fileID: 2100000, guid: 64408014a9ac7204fbcaab88afee0689, type: 2}
   - first:
@@ -947,11 +892,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_25
-    second: {fileID: 2100000, guid: 5e7e5d6b386f721469ade91917d883eb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _auto_26
     second: {fileID: 2100000, guid: 5c158f7a34be58d4dae96e460262c542, type: 2}
   - first:
@@ -1007,8 +947,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_39.002
-    second: {fileID: 2100000, guid: bcffd0fcec61a794a8db34d13688c52c, type: 2}
+      name: _auto_39.003
+    second: {fileID: 2100000, guid: 843830243bfa73f4eba410156701eed0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1022,8 +962,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_41.002
-    second: {fileID: 2100000, guid: d3d7e0aebbf48e24189976bf1454ffbc, type: 2}
+      name: _auto_41.003
+    second: {fileID: 2100000, guid: d2d2f635724f5f941b5aa0debaf6a014, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1047,11 +987,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_47
-    second: {fileID: 2100000, guid: 5e725df5075caa54ea4a8fa120a7b703, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _auto_48
     second: {fileID: 2100000, guid: 3017fa97cfc12ea408d6860f3455bc19, type: 2}
   - first:
@@ -1064,11 +999,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _auto_5
     second: {fileID: 2100000, guid: 4f243f127b3e5534b83a3fc5f826ca64, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _auto_50
-    second: {fileID: 2100000, guid: 644a150b2cd6f9443ac32d07e42f7483, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1109,11 +1039,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _auto_58
     second: {fileID: 2100000, guid: d5d6fc0438b92574ab18a0db790daeef, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _auto_6
-    second: {fileID: 2100000, guid: 21cbc6de342460b4fa2cc046c005ca6b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1182,23 +1107,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _auto_73
-    second: {fileID: 2100000, guid: d52a4655e95e66d4298739148563d125, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _auto_74
     second: {fileID: 2100000, guid: 1cff6ab7b31f8fa4ebcef1839b01f468, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _auto_76
-    second: {fileID: 2100000, guid: 8e9f3acc04862d3429e07f94bbcb37fb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _auto_77
-    second: {fileID: 2100000, guid: f8d06d09e5388384fa10ab326ff95365, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1307,18 +1217,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: ceiling.001
-    second: {fileID: 2100000, guid: f6b240cb191690d4bba1459946b49ba5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: ceiling_
     second: {fileID: 2100000, guid: b31541dc234ad454e8c8d00ea3562b4a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ceiling_.001
-    second: {fileID: 2100000, guid: b097c6028e786704fbce0deab8759cb1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1386,7 +1286,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 2
+    meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
@@ -1429,7 +1329,7 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips:
   - 8ff7b119a2ece114e80913ae267a59fe
-  - ed870edc18861904884d5a2f316ad1fd
+  - 11a88caf01daf224e8b4971cc86d249c
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
