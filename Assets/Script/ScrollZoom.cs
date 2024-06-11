@@ -38,7 +38,7 @@ public class ScrollZoom : MonoBehaviour
     {
         if (cam != null)
         {
-            float newFOV = cam.fieldOfView - 100.0f * Time.deltaTime;
+            float newFOV = cam.fieldOfView - 150.0f * Time.deltaTime;
             cam.fieldOfView = Mathf.Clamp(newFOV, minZoom, maxZoom);
         }
     }
@@ -47,7 +47,7 @@ public class ScrollZoom : MonoBehaviour
     {
         if (cam != null)
         {
-            float newFOV = cam.fieldOfView + 100.0f * Time.deltaTime;
+            float newFOV = cam.fieldOfView + 150.0f * Time.deltaTime;
             cam.fieldOfView = Mathf.Clamp(newFOV, minZoom, maxZoom);
         }
     }
