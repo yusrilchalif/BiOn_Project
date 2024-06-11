@@ -42,7 +42,7 @@ public class DragRotateObject : MonoBehaviour
             startClickPosition = Input.mousePosition;
         }
 
-        RotateObjectWorld();
+        //RotateObjectWorld();
     }
 
     void RotateObjectWorld()
