@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class ScrollZoom : MonoBehaviour
@@ -23,7 +22,7 @@ public class ScrollZoom : MonoBehaviour
 
     void Update()
     {
-        if (cam != null && !IsPointerOverUIElement())
+        if (cam != null)
         {
             // Zoom using mouse scroll wheel
             float scrollInput = Input.GetAxis("Mouse ScrollWheel");
@@ -53,12 +52,12 @@ public class ScrollZoom : MonoBehaviour
         }
     }
 
-    bool IsPointerOverUIElement()
-    {
-        if (EventSystem.current.IsPointerOverGameObject())
-        {
-            return true;
-        }
-        return false;
-    }
+    //bool IsPointerOverUIElement()
+    //{
+    //    if (EventSystem.current.IsPointerOverGameObject())
+    //    {
+    //        return true;
+    //    }
+    //    return false;
+    //}
 }

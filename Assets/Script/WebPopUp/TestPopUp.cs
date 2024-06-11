@@ -1,5 +1,6 @@
 using System.Runtime.InteropServices;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class TestPopUp : MonoBehaviour
 {
@@ -25,7 +26,14 @@ public class TestPopUp : MonoBehaviour
 
     public void OnMouseDown()
     {
-        //print("Clicked" + campusName);
-        HelloString(campusName);
+        if (!IsPointerOverUIElement())
+        {
+            HelloString(campusName);
+        }
+    }
+
+    bool IsPointerOverUIElement()
+    {
+        return EventSystem.current.IsPointerOverGameObject();
     }
 }
