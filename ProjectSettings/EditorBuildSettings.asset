@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/3D Asset/Kota BiOn.unity
-    guid: 26f5668d91855be46808e34ee126b038
+    path: Assets/Scenes/Kota Binus.unity
+    guid: e48ecbfb357fd6848bbc08ed0184ec58
   m_configObjects: {}

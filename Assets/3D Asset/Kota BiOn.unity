@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.20584264, g: 0.25814372, b: 0.30267793, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -851,12 +850,12 @@ MonoBehaviour:
   m_RequiresColorTexture: 0
   m_Version: 2
   m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
 --- !u!81 &1395625441
 AudioListener:
   m_ObjectHideFlags: 0
@@ -21095,6 +21094,7 @@ GameObject:
   - component: {fileID: 8442404068438965983}
   - component: {fileID: 3923185618849536629}
   - component: {fileID: 3831324685765008722}
+  - component: {fileID: 8442404068438965984}
   m_Layer: 0
   m_Name: City Part.011
   m_TagString: Untagged
@@ -139196,6 +139196,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 3065176678707251588}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8442404068438965984
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247431275312577351}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.006973724, y: 0.003153212, z: 0.0030489443}
+  m_Center: {x: -0.0010019684, y: -0.07021353, z: 0.005245596}
 --- !u!1 &8442803208795722763
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class DragRotateObject : MonoBehaviour
+public class ModelRotateHandler : MonoBehaviour
 {
     [SerializeField] private float rotationSpeed = 3f; // Rotation speed per click/drag
-    [SerializeField] private float maxRotationZ = 45f; // Maximum allowed rotation on Z-axis
+    [SerializeField] private float maxRotationZ = 360f; // Maximum allowed rotation on Z-axis
     [SerializeField] private float movementSpeed = 1f; // Speed of horizontal movement per frame
     [SerializeField] private float timerInterval = 1f; // Time interval for automatic Z-axis rotation
 
@@ -36,7 +36,7 @@ public class DragRotateObject : MonoBehaviour
             newRotationZ = Mathf.Clamp(newRotationZ, -maxRotationZ, maxRotationZ);
 
             float actualRotationZ = newRotationZ - currentRotationZ;
-            transform.Rotate(0f, 0f, actualRotationZ, Space.World);
+            transform.Rotate(0f, 0f, actualRotationZ);
 
             currentRotationZ = newRotationZ;
             startClickPosition = Input.mousePosition;
