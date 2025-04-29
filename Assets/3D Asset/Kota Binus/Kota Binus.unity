@@ -342,6 +342,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 404334388814058400, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 686348208218621895, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 835681678134695541, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615587425678963328, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157386111035771254, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2509323036889832822, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -392,10 +417,50 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3135214315455714408, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3962354181967077449, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4905177187551565530, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4910258879807781959, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5394645208399531749, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
         type: 3}
       propertyPath: m_Name
       value: BInus World Parent
+      objectReference: {fileID: 0}
+    - target: {fileID: 6346700001340444867, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7231522986903879741, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8151038969543554638, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9134529071484013684, guid: 41fdbb0b64528ab48bbd8b76dc9ba64d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

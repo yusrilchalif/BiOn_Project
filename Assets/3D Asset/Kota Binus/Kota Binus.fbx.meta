@@ -172,11 +172,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Brick_En
-    second: {fileID: 2100000, guid: b1edeb9036740bd4cbd4ed677cafb3d0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Brick_Pa
     second: {fileID: 2100000, guid: 70a0d34d4263db54a86e5a4c136730cf, type: 2}
   - first:
@@ -227,11 +222,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_01.001
-    second: {fileID: 2100000, guid: 9159a9faa07791c47880f3162adcb363, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_01.002
     second: {fileID: 2100000, guid: 057256a9005b59c47a9171335da406db, type: 2}
   - first:
@@ -262,18 +252,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Color_04.001
-    second: {fileID: 2100000, guid: 53bdf323b6e5ceb4290013f248cc80be, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Color_05
     second: {fileID: 2100000, guid: 2d217d5f60de7204b927c88aed29ddc5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_05.001
-    second: {fileID: 2100000, guid: 0434c45b4a8efdf4cbf7d937ea82fecd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -389,11 +369,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Color_M0
     second: {fileID: 2100000, guid: 06feec57263b85847a8b0c3561306b88, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M0.001
-    second: {fileID: 2100000, guid: a32be2c2e065efa46950f9d77c3c2bd7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -698,7 +673,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tembok Biru
-    second: {fileID: 2100000, guid: 540c86021c620eb4f938037990f2a2fb, type: 2}
+    second: {fileID: 2100000, guid: e0d38a468a3c5134ea1211010dde9221, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -708,7 +683,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tembok biru
-    second: {fileID: 2100000, guid: e0d38a468a3c5134ea1211010dde9221, type: 2}
+    second: {fileID: 2100000, guid: 540c86021c620eb4f938037990f2a2fb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
