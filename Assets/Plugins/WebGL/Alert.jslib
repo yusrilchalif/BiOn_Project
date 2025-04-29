@@ -1,6 +1,6 @@
 mergeInto(LibraryManager.library, {
     Hello: function() {
-        window.bionWorldPopup("GedungBion");
+        window.bionWorldPopup("binusSyahdan");
     },
 
     HelloString: function(str) {
