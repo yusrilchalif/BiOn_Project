@@ -22,6 +22,7 @@ public class TestPopUp : MonoBehaviour
     {
         if (!IsPointerOverUIElement())
         {
+            //HelloString(campusName);
             HelloString(campusName);
         }
     }

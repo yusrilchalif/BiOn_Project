@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: '@Kota Binus'
+  m_Name: '@Kota BInus'
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -117,7 +117,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: City/City Part014
+    path: Parent BiOn/City/City Part014
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -322,7 +322,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil
+    path: Parent BiOn/Mobil Parent/Mobil
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -545,7 +545,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil001
+    path: Parent BiOn/Mobil Parent/Mobil001
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -696,7 +696,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil002
+    path: Parent BiOn/Mobil Parent/Mobil002
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -919,7 +919,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil003
+    path: Parent BiOn/Mobil Parent/Mobil003
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1133,7 +1133,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil004
+    path: Parent BiOn/Mobil Parent/Mobil004
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1464,7 +1464,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil005
+    path: Parent BiOn/Mobil Parent/Mobil005
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1660,7 +1660,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil006
+    path: Parent BiOn/Mobil Parent/Mobil006
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1856,7 +1856,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil007
+    path: Parent BiOn/Mobil Parent/Mobil007
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2070,7 +2070,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil008
+    path: Parent BiOn/Mobil Parent/Mobil008
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2293,7 +2293,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil009
+    path: Parent BiOn/Mobil Parent/Mobil009
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2525,7 +2525,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil010
+    path: Parent BiOn/Mobil Parent/Mobil010
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2775,7 +2775,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil011
+    path: Parent BiOn/Mobil Parent/Mobil011
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2989,7 +2989,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil012
+    path: Parent BiOn/Mobil Parent/Mobil012
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3275,7 +3275,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil013
+    path: Parent BiOn/Mobil Parent/Mobil013
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -3402,7 +3402,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil
+    path: Parent BiOn/Mobil Parent/Mobil
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3526,7 +3526,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil001
+    path: Parent BiOn/Mobil Parent/Mobil001
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3632,7 +3632,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil002
+    path: Parent BiOn/Mobil Parent/Mobil002
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3747,7 +3747,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil003
+    path: Parent BiOn/Mobil Parent/Mobil003
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3889,7 +3889,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil004
+    path: Parent BiOn/Mobil Parent/Mobil004
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4121,7 +4121,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil005
+    path: Parent BiOn/Mobil Parent/Mobil005
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4290,7 +4290,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil006
+    path: Parent BiOn/Mobil Parent/Mobil006
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4459,7 +4459,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil007
+    path: Parent BiOn/Mobil Parent/Mobil007
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4592,7 +4592,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil008
+    path: Parent BiOn/Mobil Parent/Mobil008
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4734,7 +4734,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil009
+    path: Parent BiOn/Mobil Parent/Mobil009
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4858,7 +4858,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil010
+    path: Parent BiOn/Mobil Parent/Mobil010
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4991,7 +4991,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil011
+    path: Parent BiOn/Mobil Parent/Mobil011
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5151,7 +5151,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil012
+    path: Parent BiOn/Mobil Parent/Mobil012
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5284,7 +5284,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mobil Parent/Mobil013
+    path: Parent BiOn/Mobil Parent/Mobil013
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -5294,268 +5294,7 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings:
-    - serializedVersion: 2
-      path: 507138322
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 800901356
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3065354582
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3249711552
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1607875683
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 684788981
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2983746895
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3336531417
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1449160776
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 560414942
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1101056315
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 916978093
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2947459095
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3634993281
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 220101026
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 507138322
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 800901356
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3065354582
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3249711552
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1607875683
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 684788981
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2983746895
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3336531417
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1449160776
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 560414942
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1101056315
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 916978093
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2947459095
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3634993281
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
+    genericBindings: []
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -5567,7 +5306,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0

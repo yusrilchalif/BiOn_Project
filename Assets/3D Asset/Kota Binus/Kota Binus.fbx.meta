@@ -27,11 +27,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 0112_Sla
-    second: {fileID: 2100000, guid: a8bea7cbcf9276648acfc1b1b79a8779, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: 0133_Gra
     second: {fileID: 2100000, guid: c0249125dafdc9b41ad5276c26b36971, type: 2}
   - first:
@@ -44,6 +39,56 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: 0135_Dar
     second: {fileID: 2100000, guid: ea5561607f2eadf409b2329379693c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01_-_Default.001
+    second: {fileID: 2100000, guid: 556d781821a21584194952356c18ae6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03_-_Default.001
+    second: {fileID: 2100000, guid: 53603ac624c93164a9dc81dad6485f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04_-_Default.001
+    second: {fileID: 2100000, guid: 56124e5a1d2f22c41adbca4befa69f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05_-_Default.001
+    second: {fileID: 2100000, guid: 4872edd35ee51b84c99661d4bb5400db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06_-_Default.001
+    second: {fileID: 2100000, guid: d0f825e866f16d447b7d1ef81fcb1d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11_-_Default
+    second: {fileID: 2100000, guid: 1f676065932bab94d96864002662454d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12_-_Car_Paint.001
+    second: {fileID: 2100000, guid: 0ccd2af44bfcf1a438612fa7fd1787d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15_-_Glossy_Plastic.001
+    second: {fileID: 2100000, guid: 8306b232ff2f1aa4192e49ce8d45697b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16_-_Matte_Plastic.001
+    second: {fileID: 2100000, guid: f61af1b95ec533345b195abbaeef030b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21_-_Default
+    second: {fileID: 2100000, guid: 901d666f1a6d197438a430412974635a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -122,6 +167,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Base Marker
+    second: {fileID: 2100000, guid: d0c2e457c93bca743ab116193ee4c0e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Batu
     second: {fileID: 2100000, guid: 06763c434100be3419de94b7230ee01c, type: 2}
   - first:
@@ -144,6 +194,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Binus
     second: {fileID: 2100000, guid: 83521dc869590b341b6a8c919cf82a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: fb297ae9133ae834d956f30627f61620, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -194,6 +249,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Celling.001
     second: {fileID: 2100000, guid: 62401d50879d94343aba5ab084ab7e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic.001
+    second: {fileID: 2100000, guid: 85ecba741f8d6db4e861edb14e939e0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -402,11 +462,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ferrocar
-    second: {fileID: 2100000, guid: 63de29766febc7445ab223829c0684fe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Flower
     second: {fileID: 2100000, guid: 2a144724898fd2542960090ad17fcf16, type: 2}
   - first:
@@ -463,7 +518,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Kaca
-    second: {fileID: 2100000, guid: 1ad0972d41f18854da181996dc2c6100, type: 2}
+    second: {fileID: 2100000, guid: c23333ed3b4edaa408a735592a740293, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -472,13 +527,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Kaca.002
+    second: {fileID: 2100000, guid: 3d4f0aa71d01a844b969dc09a6a5e948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca_70
+    second: {fileID: 2100000, guid: b25f2d1fc906c324984fac5253ec0417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Lantai
     second: {fileID: 2100000, guid: 7ec1fceff5f670542b02a49aadb85fd3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Lapangan Bola
+    second: {fileID: 2100000, guid: b1dde2189355ce844a46c1dbf875e765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Lenoir
     second: {fileID: 2100000, guid: 71927b21d7149f34fafd3d4e9ada0943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo
+    second: {fileID: 2100000, guid: 1e7e14d651cc2c64eb40b30850b5c0d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -499,6 +574,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Merah
     second: {fileID: 2100000, guid: 3c448ef3b59b94c4b8b2be1cb5f7a623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: 6dbe875a31f250547bd7191812fbfb45, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -637,11 +717,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Sketch02
-    second: {fileID: 2100000, guid: 13037bba42370df42bec67a7919df949, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Sketchy_
     second: {fileID: 2100000, guid: f2729f269a4e5504c88f1bffb8f649f7, type: 2}
   - first:
@@ -687,11 +762,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Tile_Cer
-    second: {fileID: 2100000, guid: 4c1b21f21b0957644a31f46b9caf4385, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Transl01
     second: {fileID: 2100000, guid: 7b1d522ec69dc5441aa69dc9d534dfc6, type: 2}
   - first:
@@ -722,8 +792,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Vegetati
-    second: {fileID: 2100000, guid: a01b6627eabc37a489f01e328bf74131, type: 2}
+      name: Wall_Paint.001
+    second: {fileID: 2100000, guid: e6cf34cf19bbc9e40a2ecc589be39e16, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -777,23 +847,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _66
-    second: {fileID: 2100000, guid: 75b4f51c45215fa4c9cda6e0e668c1e6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _67
     second: {fileID: 2100000, guid: 97eaae07495c8f040a86befb106e342e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _70
-    second: {fileID: 2100000, guid: 39cf16a314f9cc8458a939eaee58280d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _72
-    second: {fileID: 2100000, guid: ba5448558248f9f4f934347d3fb70d09, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -809,21 +864,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _88
     second: {fileID: 2100000, guid: 5d49ee5f7ebf6b9408f16e28faf362c2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _96
-    second: {fileID: 2100000, guid: 2d19fa3810ead984e8ffb7b9b527735f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _Beige_1
-    second: {fileID: 2100000, guid: 126955927f8509e428ab97f46d833c1d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _BurlyWo
-    second: {fileID: 2100000, guid: 5a5e04ddb6f749448b43c5a106f39b75, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -877,11 +917,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _Concr01
-    second: {fileID: 2100000, guid: 58e12d77511530447b49e1870063ff9d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _Concr02
     second: {fileID: 2100000, guid: 29f90ff9d6b5a654087b8bd04c248d58, type: 2}
   - first:
@@ -889,16 +924,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _Concret
     second: {fileID: 2100000, guid: 82c0f4f1998e49d45a84cc013adecb34, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _Fencing
-    second: {fileID: 2100000, guid: 880d5c95c65ba3a4aa6e017fee810184, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _Glass_b
-    second: {fileID: 2100000, guid: b4d3beae7c3ae52428f251dd250f3523, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -962,11 +987,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: _Tomato_
-    second: {fileID: 2100000, guid: 714ce516ddab52448a11bad751815a44, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: _Translu
     second: {fileID: 2100000, guid: f6d7fbf27e8d2e848ac645b124d434bb, type: 2}
   - first:
@@ -979,11 +999,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _Vegetat
     second: {fileID: 2100000, guid: 34be80af47d63754eab348a6801688c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _Water_P
-    second: {fileID: 2100000, guid: fcde4096a63d3964d91e686b404295b1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1094,6 +1109,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: _auto_22
     second: {fileID: 2100000, guid: 9b7bc1ce5ba9bde4a959941bc461caba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_25
+    second: {fileID: 2100000, guid: 04b9af486c04bd44988669a2994ed35e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1412,6 +1432,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: kaca
+    second: {fileID: 2100000, guid: 1ad0972d41f18854da181996dc2c6100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: malang1
     second: {fileID: 2100000, guid: ec9d5c4ac90945b4e980924749381e97, type: 2}
   - first:
@@ -1483,7 +1508,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -1514,7 +1539,7 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips:
   - 51fd8d271520c2a4e93961ba37ef3b17
-  - 8c97b32494e1c694991e850a8c5b5db2
+  - 6324ae283eca5784b97581e2a19d1936
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
