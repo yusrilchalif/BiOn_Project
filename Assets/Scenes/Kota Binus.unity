@@ -961,22 +961,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1520628040}
   m_CullTransparentMesh: 1
---- !u!114 &2009494735
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7390675852643349192}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e62ee23b5bcecc46a688d2ba6efd57d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rotationSpeed: 3
-  maxRotationZ: 45
-  movementSpeed: 1
-  timerInterval: 1
 --- !u!1 &2065628916205275
 GameObject:
   m_ObjectHideFlags: 0
@@ -187477,7 +187461,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7915960538552428658}
-  - component: {fileID: 2009494735}
   - component: {fileID: 7915960538552428659}
   m_Layer: 0
   m_Name: Kota Binus
