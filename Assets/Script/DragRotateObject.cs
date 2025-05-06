@@ -32,13 +32,9 @@ public class DragRotateObject : MonoBehaviour
             Vector3 deltaMousePosition = Input.mousePosition - startClickPosition;
             float rotationZ = deltaMousePosition.x * rotationSpeed * Time.deltaTime;
 
-            float newRotationZ = currentRotationZ + rotationZ;
-            newRotationZ = Mathf.Clamp(newRotationZ, -maxRotationZ, maxRotationZ);
+            // Apply rotation directly without clamp
+            transform.Rotate(0f, 0f, rotationZ, Space.World);
 
-            float actualRotationZ = newRotationZ - currentRotationZ;
-            transform.Rotate(0f, 0f, actualRotationZ, Space.World);
-
-            currentRotationZ = newRotationZ;
             startClickPosition = Input.mousePosition;
         }
 
